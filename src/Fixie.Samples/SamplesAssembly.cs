@@ -11,6 +11,7 @@
             Apply<IoC.CustomConvention>();
             Apply<LowCeremony.CustomConvention>();
             Apply<NUnitStyle.CustomConvention>();
+            Apply<MSTestStyle.CustomConvention>();
             Apply<Parameterized.CustomConvention>();
             Apply<Shuffle.CustomConvention>();
             Apply<Skipped.CustomConvention>();
